@@ -179,3 +179,6 @@ checkpoints
 # mlflow related
 mlartifacts
 mlruns
+
+# don't load the example.ipynb
+dashboard-example.ipynb
